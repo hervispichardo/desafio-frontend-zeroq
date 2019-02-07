@@ -10,6 +10,8 @@ Se proporcionará, un mockup de como debe quedar el prototipo y de las interacci
 
 1. Se debe realizar usando el framework react.js ( Esto es excluyente ya que es el framework que usamos en todos nuestros front y es de gran importancia )
 
+2. Se puede usar cualquier libreria
+
 ## Lo que necesitaras
 
 #### Endpoint
@@ -44,5 +46,15 @@ El Estado se obtiene en el tributo `online` de cada oficina, que es un booleano.
 
 Se evalua que el prototipo se parezca lo mas posible a los screens proporcionados.
 
+#### 6. Enviar repositorio con el prototipo
+
+Se debe enviar el repositorio con un readme donde se explique como construir, correr y testear la aplicación.
+
+## Bonus (Deseable)
+
+- Buenas practicas de programación en javascript
+- Uso de TDD
+- Fidelidad al diseño proporcionado
+- Diseño Responsivo
 
 
