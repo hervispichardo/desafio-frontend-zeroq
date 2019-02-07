@@ -12,14 +12,14 @@ Se proporcionará, un mockup de como debe quedar el prototipo y de las interacci
 
 ## Lo que necesitaras
 
-### Endpoint
+#### Endpoint
 
 El unico endpoint a consultar será:
 
 
  GET: https://dev.zeroq.cl/desafio-frontend/
 
-### Assets
+#### Assets
 
 En la carpeta assets de este proyecto estaran las imagenes de guía y logotipo.
 
@@ -29,7 +29,7 @@ En la carpeta assets de este proyecto estaran las imagenes de guía y logotipo.
 #### 2. Agregar un campo de texto para filtrar oficinas por su nombre.
 El nombre se obtiene en el tributo `name` de cada oficina
 
-#### 3. Agregar un campo select para ordenar oficinas por personas en fila y tiempo romedio de atención.
+#### 3. Agregar un campo select para ordenar oficinas por personas en fila y tiempo promedio de atención.
 
 Cada oficina tiene un atributo `lines` y a su vez cada una de ellas tienen atributos `waiting` que son personas en fila y `elapsed` que es el tiempo promedio de atención de esa fila en segundos.
 
@@ -39,6 +39,10 @@ Cada oficina tiene un atributo `lines` y a su vez cada una de ellas tienen atrib
 #### 4. Filtrar oficinas por estado de conexión
 
 El Estado se obtiene en el tributo `online` de cada oficina, que es un booleano.
+
+#### 5. Maquetar segun diseño entregado
+
+Se evalua que el prototipo se parezca lo mas posible a los screens proporcionados.
 
 
 
