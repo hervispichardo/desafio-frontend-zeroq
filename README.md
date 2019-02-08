@@ -4,7 +4,7 @@ Zeroq esta en busca de un desarrollador frontend para unirse a su equipo de desa
 
 El desafío consiste en consumir una API Restful, luego listar  las oficinas proporcionadas con algunos atributos.
 
-Se proporcionará, un mockup de como debe quedar el prototipo. Este es una version muy simple y reducida de nuestro dashboard en tiempo real (Centro de mando), y lo que queremos es validar que el concursante pueda maquetar un diseño dado fielmente.
+Se proporcionará, un mockup de como debe quedar el prototipo. Este es una version muy simple y reducida de nuestro dashboard en tiempo real (https://zeroq.cl/command/) , y lo que queremos es validar que el concursante pueda maquetar un diseño dado fielmente.
 
 ## Restricciones
 
